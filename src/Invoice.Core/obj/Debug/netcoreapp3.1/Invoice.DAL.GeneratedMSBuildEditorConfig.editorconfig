@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Invoice.DAL
+build_property.ProjectDir = D:\DotNetPractice\InvoiceApp\Invoice.DAL\

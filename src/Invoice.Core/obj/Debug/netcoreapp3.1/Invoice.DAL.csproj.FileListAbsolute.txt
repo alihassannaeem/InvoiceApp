@@ -1,0 +1,13 @@
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\bin\Debug\netcoreapp3.1\Invoice.DAL.deps.json
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\bin\Debug\netcoreapp3.1\Invoice.DAL.dll
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\bin\Debug\netcoreapp3.1\Invoice.DAL.pdb
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.csproj.AssemblyReference.cache
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.AssemblyInfoInputs.cache
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.AssemblyInfo.cs
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.csproj.CoreCompileInputs.cache
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.dll
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.pdb
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\bin\Debug\netcoreapp3.1\Invoice.Entities.dll
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\bin\Debug\netcoreapp3.1\Invoice.Entities.pdb
+D:\DotNetPractice\InvoiceApp\Invoice.DAL\obj\Debug\netcoreapp3.1\Invoice.DAL.csproj.CopyComplete

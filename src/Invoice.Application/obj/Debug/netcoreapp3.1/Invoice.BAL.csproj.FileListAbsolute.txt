@@ -1,0 +1,10 @@
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\bin\Debug\netcoreapp3.1\Invoice.BAL.deps.json
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\bin\Debug\netcoreapp3.1\Invoice.BAL.dll
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\bin\Debug\netcoreapp3.1\Invoice.BAL.pdb
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.csproj.AssemblyReference.cache
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.AssemblyInfoInputs.cache
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.AssemblyInfo.cs
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.csproj.CoreCompileInputs.cache
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.dll
+D:\DotNetPractice\InvoiceApp\src\Invoice.BAL\obj\Debug\netcoreapp3.1\Invoice.BAL.pdb

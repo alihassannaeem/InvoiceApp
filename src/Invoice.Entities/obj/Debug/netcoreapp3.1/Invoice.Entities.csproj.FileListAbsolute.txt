@@ -1,0 +1,10 @@
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\bin\Debug\netcoreapp3.1\Invoice.Entities.deps.json
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\bin\Debug\netcoreapp3.1\Invoice.Entities.dll
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\bin\Debug\netcoreapp3.1\Invoice.Entities.pdb
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.AssemblyInfoInputs.cache
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.AssemblyInfo.cs
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.csproj.CoreCompileInputs.cache
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.dll
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.pdb
+D:\DotNetPractice\InvoiceApp\src\Invoice.Entities\obj\Debug\netcoreapp3.1\Invoice.Entities.csproj.AssemblyReference.cache
